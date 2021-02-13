@@ -7,9 +7,14 @@ public class BookShelf {
     private double myDewyDecimalStart;
     private double myDewyDecimalEnd;
     /**
-     * A hashmap of books and the quantity
+     * <Book object, Quantity on shelf>
      */
     private HashMap<Book, Integer> myBooks;
+
+
+
+
+
 
 
 }
